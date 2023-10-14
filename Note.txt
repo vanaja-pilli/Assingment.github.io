@@ -2,3 +2,4 @@ This is a file to practice Git Commands
 Git status - gives changes made to the tracked files
 Git add File name - Added the working directory changes to stating area
 Git Add . - Added the recent changes made to sating area
+New change
